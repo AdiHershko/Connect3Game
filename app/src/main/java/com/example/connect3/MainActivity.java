@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         public Piece(Color color)
         {
             this.color=color;
-        }
+        }//
     }
 
     enum Color { Red,Yellow,Black }
